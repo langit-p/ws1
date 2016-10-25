@@ -8,6 +8,7 @@
 	"weapon": ["superlaser", "tractor beam", "turbolaser"],
 	"powersource": "hypermatter reactor",
 	"fuel": "nuclear",
+	"crewNumbers": 182,
 	"specification": {
 		"scale": "km",	
 		"lenght": 120,
