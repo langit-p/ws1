@@ -3,6 +3,7 @@
 	"name": "Starfighter",
 	"identifier": "T-65 x-wing",
 	"affiliation": "alliance",
+	"nickname": "star",
 	"price": {
     	"amount": 149999,
 		"currency": "galactic credits"
